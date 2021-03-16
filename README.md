@@ -5,6 +5,11 @@ Libraries:
 U8g2lib.h
 MAX30102.h
 algorithm_by_RF.h
+BLE2902.h
+BLEDevice.h
+BLEServer.h
+BLEUUID.h
+BLEUtils.h
 
 See https://www.instructables.com/Pulse-Oximeter-With-Much-Improved-Precision/
 
